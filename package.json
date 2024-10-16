@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.elab.elabrcallassets",                              
+  "displayName": "eLabRC Project Setting and Asset",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Have some file and folder that must be in all version of the eLab project. What ever the platform. I need to keep it to the miniumal possible.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2024_10_12_eLabRCInAllProjectsAsset.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
